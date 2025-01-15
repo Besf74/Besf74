@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Bobby!
+# Welcome to my GitHub
+**Here you"ll find my projects, interests, and skills in cybersecurity, programming and more.**
 
-<!--
-**Besf74/Besf74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Thanks for stopping by!**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Education
+
+## Bachelor of Science in Cybersecurity
+**Old Dominion University**  - Norfolk, VA 
+
+**Expected Graduation Date:** 12/2025
