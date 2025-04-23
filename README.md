@@ -22,14 +22,14 @@ Welcome to my GitHub! I'm a passionate cybersecurity undergraduate at Old Domini
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Python Programming                            |https://github.com/Besf74/Socket-Programming|
+| Python Programming (Interactive Menu)         |https://github.com/Besf74/Python-Interactive-Menu|
+| Python Programming (Socket Programming)       |https://github.com/Besf74/Socket-Programming| 
 
 ---
 
 ## 🎓 Education & Involvement
 
-**Old Dominion University** – B.Sc. in Cybersecurity (Expected 2025)  
+**Old Dominion University** – B.S. in Cybersecurity (Expected 2025)  
 -  Dean’s List (4x)  
 -  Member – Cybersecurity Student Association  
 -  Member – National Society of Leadership and Success  
