@@ -21,6 +21,7 @@ Welcome to my GitHub! I'm a passionate cybersecurity undergraduate at Old Domini
 ### 🌐 Python Socket Programming Project
 - Developed a **Python client-server app** that provides historical World Series stats using socket communication
 - Implemented data handling using dictionaries, file parsing, and string manipulation
+- https://github.com/Besf74/Socket-Programming
 
 ### 🔍 Wireshark Traffic Analysis
 - Captured and analyzed ICMP, DNS, and FTP traffic between VMs in a virtual lab
