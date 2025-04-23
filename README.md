@@ -10,4 +10,4 @@
 ## Bachelor of Science in Cybersecurity
 **Old Dominion University**  - Norfolk, VA 
 
-**Expected Graduation Date:** 12/2025
+**Expected Graduation Date:** 08/2025
