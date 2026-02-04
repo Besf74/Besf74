@@ -12,14 +12,37 @@ Welcome to my GitHub! I'm a passionate cybersecurity graduate at Old Dominion Un
 
 ## 🧰 Technical Skills
 
-#### Security Tools: Wireshark, Nmap, Metasploit, John the Ripper, Any.Run, steghide  
-#### Forensics: Sleuth Kit (Autopsy), FTK Imager, X-Ways  
-#### Network: TCP/IP, DNS, HTTP/S, SSL/TLS, IPsec, SNMP  
-#### OS & Virtualization: Windows Server, Ubuntu, Kali Linux, VirtualBox, VMware, Docker  
-#### Scripting: Python, Windows CMD  
-#### Systems: Active Directory, Group Policy, Windows Server 2019  
-#### Frameworks: NIST Cybersecurity Framework  
-#### Productivity: Microsoft 365, Google Workspace
+**Cybersecurity Tools and Techniques**
+Network Monitoring & Malware Analysis: Wireshark, Nmap/Zenmap, Tcpdump, Ping & Traceroute, 
+ANY.RUN
+Digital Forensics & Ethical Hacking: Kali Linux, Metasploit, Steghide, John the ripper, Bruter, DarkComet, 
+FTK Imager, Sleuth Kit (Autopsy), X-Ways, EnCase, Volatility 
+Firewalls: Configuration & management of pfSense firewalls 
+OSINT: AbuseIPDB, Virus Total, urlscan.io 
+
+**Network Security**
+Network Protocols & Communications: Adept understanding of network topologies, network protocols 
+(TCP/IP, UDP, DNS, HTTPS, SNMP, IPsec, SSL/TLS) & network applications. 
+Cryptographic Systems: Understanding of encryption algorithms, hashing & public key infrastructure. 
+
+**Operating Systems**
+Windows, Linux, macOS 
+Virtualization & Containerization  - 
+VMware, VirtualBox, Hyper-V, Docker
+
+**Security Frameworks & Standards**
+NIST Cybersecurity Framework 2.0 
+NIST SP 800 series – 800-37, 800-53, 800-61, 800-171 
+FedRAMP, FISMA, GDPR, HIPAA, PCI DSS
+
+**Technical IT Tools**
+Identity & Access Management, Active Directory, Cherwell Service Management Ticketing System (Triaging 
+& Resolution), Citrix Director, RSA SecurID Console, XenMobile
+
+**Other**
+Microsoft Office 365 
+Google Workspace  
+Citrix Workspace
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -31,10 +54,12 @@ Welcome to my GitHub! I'm a passionate cybersecurity graduate at Old Dominion Un
 
 ## 🎓 Education & Involvement
 
-**Old Dominion University** – B.S. in Cybersecurity (Expected 2025)  
+**Old Dominion University** – B.S. in Cybersecurity  
 -  Dean’s List (4x)  
 -  Member – Cybersecurity Student Association  
--  Member – National Society of Leadership and Success  
+-  Member – National Society of Leadership and Success
+
+**Old Dominion University** – M.S. in Cybersecurity - Anticipated April 2027
 
 **Mentorship & Volunteerism:**  
 -  Mentor – Commonwealth Cyber Initiative (helping high school students explore cybersecurity)
