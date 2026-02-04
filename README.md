@@ -3,8 +3,8 @@
 Welcome to my GitHub! I'm a passionate cybersecurity graduate at Old Dominion University, driven by a hands-on approach to learning and solving real-world problems in the digital security space.
 
 ## 🧠 About Me
--  **B.Sc. in Cybersecurity**
--  **M.Sc. in Cybersecurity Risk Management** 
+-  B.Sc. in Cybersecurity
+-  M.Sc. in Cybersecurity Risk Management
 -  CompTIA Security+ Certified (SY0-701)
 -  Hands-on with Active Directory, network monitoring tools, and forensics software
 -  Constantly experimenting in my home lab environments
