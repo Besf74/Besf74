@@ -40,7 +40,7 @@ Identity & Access Management, Active Directory, Cherwell Service Management Tick
 & Resolution), Citrix Director, RSA SecurID Console, XenMobile
 
 **Other**
-Microsoft Office 365 
+Microsoft Office 365
 Google Workspace  
 Citrix Workspace
 
