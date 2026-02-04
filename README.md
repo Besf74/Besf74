@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bamdad (Bobby) Esfandiari
 
-Welcome to my GitHub! I'm a passionate cybersecurity undergraduate at Old Dominion University, driven by a hands-on approach to learning and solving real-world problems in the digital security space.
+Welcome to my GitHub! I'm a passionate cybersecurity graduate at Old Dominion University, driven by a hands-on approach to learning and solving real-world problems in the digital security space.
 
 ## 🧠 About Me
 -  Pursuing a **B.Sc. in Cybersecurity** (Graduating August 2025) (Pursuing Master's Fall 2025)
