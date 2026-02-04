@@ -36,8 +36,8 @@ NIST SP 800 series – 800-37, 800-53, 800-61, 800-171
 FedRAMP, FISMA, GDPR, HIPAA, PCI DSS
 
 **Technical IT Tools**
-Identity & Access Management, Active Directory, Cherwell Service Management Ticketing System (Triaging 
-& Resolution), Citrix Director, RSA SecurID Console, XenMobile
+Intune, M365 Administrator, Identity & Access Management, Active Directory, Jira, Cherwell Service Management Ticketing System (Triaging 
+& Resolution), Citrix Director, RSA SecurID Console, Duo Mobile, XenMobile
 
 **Other**
 Microsoft Office 365, Google Workspace, Citrix Workspace
